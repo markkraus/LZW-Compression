@@ -3,6 +3,9 @@
 - Standard input/output reading/writing<br>
 - Dynamic dictionary resetting<br>
 
+## Project Documentation
+https://github.com/cs1501-2241/cs1501-assignment3-markkraus
+
 # How to Run
 Test Video: https://drive.google.com/file/d/1XxCaa66we6f-rlOttleZXo2lv7mvpq9L/view?usp=sharing<br>
 javac *.java<br>
